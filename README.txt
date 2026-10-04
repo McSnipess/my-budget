@@ -1,29 +1,12 @@
-MY BUDGET WEBSITE
+MY BUDGET V2
 
-This is a mobile-first budgeting website.
-
-FILES
+Upload and replace the existing files in your GitHub Pages repository:
 index.html
 style.css
 app.js
 manifest.json
 
-QUICK TEST
-You can test it on a computer by opening index.html in a browser.
+New feature: Can I afford this?
+It checks the tracked balance, unpaid bills and savings goals and returns Comfortable, Affordable but tight, or I'd wait.
 
-IPHONE USE
-For the easiest permanent setup, put these files on a web host that gives you an HTTPS URL. Then open the URL in Safari and use Share > Add to Home Screen.
-
-DATA
-Budget data is stored in the browser's localStorage on the device. Clearing browser/site data can remove it. This version does not have cloud sync or login.
-
-FEATURES
-Dashboard
-Income and expenses
-Transaction history
-Category budgets
-Savings goals
-Bills
-Paid/unpaid bills
-Mobile iPhone layout
-Home Screen web-app support
+Upload the FILES, not the ZIP. Your existing local budget data should remain because this version keeps the same localStorage key.
